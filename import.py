@@ -1,6 +1,7 @@
+# https://stackoverflow.com/questions/41573616/index-csv-to-elasticsearch-in-python
 # https://elasticsearch-py.readthedocs.io/en/master/
 # https://stackoverflow.com/questions/44696039/python-elasticsearch-bulk-index-datatype
-# https://stackoverflow.com/questions/41573616/index-csv-to-elasticsearch-in-python
+# https://www.elastic.co/guide/en/elasticsearch/reference/current/search-search.html
 # http://10.0.1.215:9200/_cat/indices?v
 # http://10.0.1.215:9200/_search
 # http://10.0.1.215:9200/_search?q=65.6

@@ -5,6 +5,7 @@
 # http://10.0.1.215:9200/_cat/indices?v
 # http://10.0.1.215:9200/_search
 # http://10.0.1.215:9200/_search?q=65.6
+# curl -XGET 'http://10.0.1.215:9200/_cluster/state?pretty'
 
 from elasticsearch import helpers, Elasticsearch
 import csv
